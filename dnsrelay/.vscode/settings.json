@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "*.svg": "html",
+    "*.qs": "qsharp",
+    "*.i": "lex",
+    "cache.h": "c",
+    "datastructure.h": "c",
+    "util.h": "c"
+  }
+}
